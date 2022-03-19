@@ -1,3 +1,11 @@
 # Bookmarks manager app
 
-Open Source Bookmarks Manager App built with Next JS and Express.
+Open Source Bookmarks Manager App.
+
+## Frontend:
+
+NextJS
+
+## Backend:
+
+Express
