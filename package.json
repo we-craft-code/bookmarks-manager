@@ -1,0 +1,22 @@
+{
+  "name": "bookmarks-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:start": "docker-compose up",
+    "dev:stop": "docker-compose down",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/we-craft-code/bookmarks-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/we-craft-code/bookmarks-manager/issues"
+  },
+  "homepage": "https://github.com/we-craft-code/bookmarks-manager#readme"
+}
